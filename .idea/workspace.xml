@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a10deb4-30bc-4326-9560-175bf1297523" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/TEST" beforeDir="false" afterPath="$PROJECT_DIR$/TEST" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,8 @@
       <option name="presentableId" value="Default" />
       <updated>1633275058825</updated>
       <workItem from="1633275063858" duration="377000" />
-      <workItem from="1633951336029" duration="89000" />
+      <workItem from="1633951336029" duration="439000" />
+      <workItem from="1633953232759" duration="14000" />
     </task>
     <task id="LOCAL-00001" summary="новый тест по таске pft-21">
       <created>1633275361601</created>
